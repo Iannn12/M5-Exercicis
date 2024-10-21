@@ -8,6 +8,7 @@ public class Main {
         int i = 0;
         do {
             i++;
+            System.out.println("El numero es: " + i);
         }while (i< 10);
     }
 }
