@@ -5,5 +5,9 @@ public class Main {
         System.out.println("como estas?");
         System.out.println("bien, gracias!");
         System.out.println("Me alegro!");
+        int i = 0;
+        do {
+            i++;
+        }while (i< 10);
     }
 }
